@@ -24,7 +24,7 @@ This is an IOS app that I made working on a freelance project. It has Auto-Renew
     - Change the Background Image
     - Change the Category
     - Change the App Icon
-    - Change Notifications Time and Conten
+    - Change Notifications Time and Content
 - Widget
 - In-App Purchases
 - Notifications
