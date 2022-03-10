@@ -1,0 +1,11 @@
+framework module PurchaseKit {
+  umbrella header "PurchaseKit.h"
+
+  export *
+  module * { export * }
+}
+
+module PurchaseKit.Swift {
+    header "PurchaseKit-Swift.h"
+    requires objc
+}

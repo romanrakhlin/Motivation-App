@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "white-and-gray-clouds_193186@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "white-and-gray-clouds_193186@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "white-and-gray-clouds_193186@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

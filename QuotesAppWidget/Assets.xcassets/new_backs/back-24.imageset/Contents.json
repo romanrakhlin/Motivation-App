@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Mountain-Forest-Lake-Misty-iphone-11-pro@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Mountain-Forest-Lake-Misty-iphone-11-pro@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Mountain-Forest-Lake-Misty-iphone-11-pro@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
